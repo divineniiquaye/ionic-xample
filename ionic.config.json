@@ -1,0 +1,8 @@
+{
+  "name": "slick",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fad36d30"
+}
